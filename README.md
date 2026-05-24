@@ -1,4 +1,4 @@
-# 🏦 🇮🇳 Bachat AI (बचत) - The Intelligent Financial Assistant
+# Bachat AI (बचत) - The Intelligent Financial Assistant
 
 Bachat AI is a premium, AI-powered personal finance manager built to revolutionize how Indian banking users track, analyze, and optimize their money. 
 
