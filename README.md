@@ -122,5 +122,14 @@ npm run dev
 - **Backend:** `cd backend && pytest tests/`
 - **ML:** `cd ml && python run_tests.py`
 
+## 👥 Contributors
+
+| Name | GitHub | Role |
+|------|--------|------|
+| Ayush Singh | [@R-ayush](https://github.com/R-ayush) | Backend |
+| Yash Raj | [@Yash-Raj1](https://github.com/Yash-Raj1) | Machine Learning |
+| Aditya Yadav | [@Aditya-yadav007](https://github.com/Aditya-yadav007) | Frontend |
+| Rishu Raj | [@rishuraj671](https://github.com/rishuraj671) | Database |
+
 ## 📜 License
 MIT License.
