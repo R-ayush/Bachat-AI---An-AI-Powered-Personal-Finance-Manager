@@ -4,10 +4,6 @@ Bachat AI is a premium, AI-powered personal finance manager built to revolutioni
 
 By leveraging **Google Gemini AI** and a **Dedicated Machine Learning Microservice**, Bachat AI effortlessly parses complex, inconsistent PDF and CSV bank statements, running them through Prophet forecasting, Anomaly Detection, and a Smart Adaptive Ratio Engine. It turns raw data into beautiful, actionable insights, spending heatmaps, and gamified saving targets. It also features a deeply context-aware Chatbot that acts as your personal financial coach.
 
-![Dashboard Preview](https://via.placeholder.com/1000x500?text=Bachat+AI+Dashboard)
-
----
-
 ## ✨ Core Features
 
 *   📄 **AI-Powered Statement Parsing:** Upload PDF or CSV statements from any Indian bank (SBI, HDFC, ICICI, etc.). The AI structures the data flawlessly native to the app via Gemini Flash 2.5.
@@ -88,7 +84,7 @@ SUPABASE_URL=https://your-id.supabase.co
 SUPABASE_KEY=your-public-anon-key
 SUPABASE_SERVICE_ROLE_KEY=your-private-admin-key
 DATABASE_URL=postgresql://postgres:password@db.your-id.supabase.co:5432/postgres
-GEMINI_API_KEY=AIzaSy...
+GEMINI_API_KEY=Your-Gemini-APi-Key
 ML_API_URL=http://localhost:5001
 FLASK_APP=run.py
 FLASK_ENV=development
